@@ -13,7 +13,7 @@
 				- 🌱 I’m presently learning extra testing tools which i don't know and  further developing my coding skills . <br/></h1><br/>
 				
 <div>
-<a href="https://"www.linkedin.com/in/ugur-murat872623239"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/ugur-murat-872623239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://www.instagram.com/ugur.serra.murat/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23800080?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
