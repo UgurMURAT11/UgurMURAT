@@ -4,7 +4,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ugur+Murat;+Welcome+to+My+Profile!;I+have+3+years%2B+experience+as+a+SDET...)](https://git.io/typing-svg)
 
- [Email Me 📧](mailto:elizadeh9797@gmail.com) 
+ [Email Me 📧](mailto:ugurmuratxx11@gmail.com) 
             
   <h1 align="left">About Me 💻<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div >
@@ -13,7 +13,8 @@
 				- 🌱 I’m presently learning extra testing tools which i don't know and  further developing my coding skills . <br/></h1><br/>
 				
 <div>
-<a href="www.linkedin.com/in/ugur-murat872623239" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="www.linkedin.com/in/ugur-murat872623239
+" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://www.instagram.com/ugur.serra.murat/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23800080?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
