@@ -39,6 +39,7 @@
         <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="48" height="48" alt="SQL" />
       </a>
       <br>SQL
+	    
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
